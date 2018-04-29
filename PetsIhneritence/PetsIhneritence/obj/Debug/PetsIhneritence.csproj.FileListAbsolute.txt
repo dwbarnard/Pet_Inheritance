@@ -1,0 +1,10 @@
+C:\Users\Dave\source\repos\PetsIhneritence\PetsIhneritence\bin\Debug\PetsIhneritence.exe.config
+C:\Users\Dave\source\repos\PetsIhneritence\PetsIhneritence\bin\Debug\PetsIhneritence.exe
+C:\Users\Dave\source\repos\PetsIhneritence\PetsIhneritence\bin\Debug\PetsIhneritence.pdb
+C:\Users\Dave\source\repos\PetsIhneritence\PetsIhneritence\obj\Debug\PetsIhneritence.csprojResolveAssemblyReference.cache
+C:\Users\Dave\source\repos\PetsIhneritence\PetsIhneritence\obj\Debug\PetsIhneritence.Form1.resources
+C:\Users\Dave\source\repos\PetsIhneritence\PetsIhneritence\obj\Debug\PetsIhneritence.Properties.Resources.resources
+C:\Users\Dave\source\repos\PetsIhneritence\PetsIhneritence\obj\Debug\PetsIhneritence.csproj.GenerateResource.Cache
+C:\Users\Dave\source\repos\PetsIhneritence\PetsIhneritence\obj\Debug\PetsIhneritence.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\PetsIhneritence\PetsIhneritence\obj\Debug\PetsIhneritence.exe
+C:\Users\Dave\source\repos\PetsIhneritence\PetsIhneritence\obj\Debug\PetsIhneritence.pdb
